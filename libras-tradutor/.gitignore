@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*
+data/keypoints/*
+!data/raw/.gitkeep
+!data/keypoints/.gitkeep

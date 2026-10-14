@@ -1,0 +1,12 @@
+{
+  "oi":        { "pt": "oi",         "en": "hi",           "es": "hola" },
+  "bom_dia":   { "pt": "bom dia",    "en": "good morning", "es": "buenos días" },
+  "obrigado":  { "pt": "obrigado",   "en": "thank you",    "es": "gracias" },
+  "por_favor": { "pt": "por favor",  "en": "please",       "es": "por favor" },
+  "desculpa":  { "pt": "desculpa",   "en": "sorry",        "es": "perdón" },
+  "sim":       { "pt": "sim",        "en": "yes",          "es": "sí" },
+  "nao":       { "pt": "não",        "en": "no",           "es": "no" },
+  "agua":      { "pt": "água",       "en": "water",        "es": "agua" },
+  "ajuda":     { "pt": "ajuda",      "en": "help",         "es": "ayuda" },
+  "banheiro":  { "pt": "banheiro",   "en": "bathroom",     "es": "baño" }
+}
